@@ -1,4 +1,5 @@
 // Jayanth Pandit
+// Example HW
 
 console.log(sum(1,3));
 
